@@ -1,4 +1,3 @@
-
 --------
 
 [FusionTableSimpleSlider ][dl] -- 10 Jan 2014
@@ -21,7 +20,7 @@ DEMO
 
 [DEMO http://piotrkrosniak.github.io/] [bb]
 
-[bb]: http://piotrkrosniak.github.io/
+[bb]: http://piotrkrosniak.github.io/ftsimpleslider/fusiontablesimpleslider.html
 
 ----------------
 
